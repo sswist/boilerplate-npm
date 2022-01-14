@@ -11,9 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	{
-		"author": {
+	"author": {
 			"name": "Simon Swist",
-		}
-	}
+			}
 }
